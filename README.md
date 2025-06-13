@@ -1,2 +1,2 @@
-# source-codes
-fuck these are my sources for my malwares or collabs
+# Source codes
+These are my little like uh, GDI stuff. Reminder that some are not for the ones that hate flashing lights.
